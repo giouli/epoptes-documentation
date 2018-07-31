@@ -47,6 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Epoptes'
+__import__(epoptes)
+package = sys.modules[epoptes]
 copyright = '2018, Giouli Tsami'
 author = 'Giouli Tsami'
 
