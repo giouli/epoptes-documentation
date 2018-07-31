@@ -19,7 +19,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('/home/giouli/epoptes'))
+sys.path.insert(0, os.path.abspath('./epoptes'))
 
 
 # -- General configuration ------------------------------------------------
